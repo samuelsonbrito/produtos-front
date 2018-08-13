@@ -1,5 +1,5 @@
-# produtos-rest-cli3
-
+# produtos-front-cli3
+Versão CLI: Vue CLI 3
 ## Project setup
 ```
 npm install
@@ -19,3 +19,5 @@ npm run build
 ```
 npm run lint
 ```
+### Back-end 
+https://github.com/MichelliBrito/produtos-apirest
