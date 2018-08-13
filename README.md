@@ -1,4 +1,4 @@
-# produtos-front-cli3
+# produtos-front
 Versão CLI: Vue CLI 3
 ## Project setup
 ```
